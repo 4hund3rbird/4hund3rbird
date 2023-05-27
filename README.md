@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4hund3rbird // Aniket Kshirsagar
 - 👀 I’m interested doing projects which are made of technology and art
-- 🌱 I’m currently a engineering student learning artificial intelligence and data sciencd
+- 🌱 I’m currently a engineering student learning artificial intelligence and data science
 
 
 <!---
